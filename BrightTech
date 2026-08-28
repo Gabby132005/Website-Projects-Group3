@@ -1,0 +1,306 @@
+<!doctype html><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="BrightTech logo"><rect width="96" height="96" rx="24" fill="#d8f36b"/><path d="M22 24h22c12 0 19 6 19 15 0 6-3 10-8 12 7 2 11 7 11 14 0 11-8 17-21 17H22zm14 11v11h8c4 0 7-2 7-6s-3-5-7-5zm0 22v13h9c5 0 8-2 8-7 0-4-3-6-8-6z" fill="#10262a"/><path d="M68 24h8v48h-8zM61 42h22v10H61z" fill="#ff765f"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500"><rect width="700" height="500" fill="#d8f36b"/><circle cx="550" cy="100" r="100" fill="#ff765f"/><path d="M0 405c160-80 270-20 370-94 100-74 210-30 330 20v169H0z" fill="#a7d4ca"/><path d="M150 500c8-162 62-235 151-235s144 73 151 235z" fill="#10262a"/><ellipse cx="301" cy="177" rx="75" ry="88" fill="#663a2b"/><path d="M226 175q13-102 77-99 72 3 78 101-39-40-80-38-43 0-75 36z" fill="#10262a"/><circle cx="273" cy="185" r="6"/><circle cx="331" cy="185" r="6"/><rect x="48" y="278" width="254" height="145" rx="8" fill="#173337" transform="rotate(-6 48 278)"/><rect x="64" y="294" width="222" height="113" fill="#c5d4e9" transform="rotate(-6 64 294)"/><path d="M21 430h350l-31 34H55z" fill="#10262a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400"><rect width="500" height="400" fill="#f5c6a9"/><path d="M0 320c130-60 250-10 500-70v150H0z" fill="#a7d4ca"/><circle cx="300" cy="135" r="66" fill="#743d2d"/><path d="M235 130q10-84 67-84 62 2 66 86-35-32-67-31-39 0-66 29z" fill="#10262a"/><path d="M155 400c8-111 53-164 145-164s136 53 145 164z" fill="#ff765f"/><rect x="37" y="229" width="220" height="120" rx="7" fill="#10262a"/><rect x="50" y="242" width="194" height="92" fill="#c5d4e9"/><path d="M20 355h255l-25 27H46z" fill="#173337"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50# Auto detect text files and perform LF normalization
+* text=auto
+
+# Website Group Project-Group 3
+ A modern, responsive company website designed for BrightTech Solutions, a technology company specializing in computer hardware and software, networking solutions, and reliable IT support services.
+0 400"><rect wid# Auto detect text files and perform LF normalization
+* text=auto
+
+# Website Project Group3
+A modern, responsive company website designed for BrightTech Solutions, a technology company specializing in computer hardware and software, networking solutions, and reliable IT support services.
+th="500" height="400" fill="#a7d4ca"/><circle cx="190" cy="130" r="68" fill="#633b2b"/><path d="M123 127q12-82 69-82 62 1 68 84-34-32-69-31-40 0-68 29z" fill="#10262a"/><path d="M55 400c7-130 54-180 135-180s129 50 136 180z" fill="#173337"/><rect x="296" y="221" width="155" height="104" rx="12" fill="#10262a"/><circle cx="329" cy="254" r="7" fill="#d8f36b"/><circle cx="354" cy="254" r="7" fill="#ff765f"/><path d="M320 280h105M320 298h68" stroke="#a7d4ca" stroke-width="8" stroke-linecap="round"/><path d="M340 185v-58M375 185v-82" stroke="#10262a" stroke-width="7"/><path d="M315 160q42-35 84 0M300 135q58-55 115 0" fill="none" stroke="#ff765f" stroke-width="6"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400"><rect width="500" height="400" fill="#cfc5e5"/><circle cx="270" cy="125" r="68" fill="#7b432f"/><path d="M202 122q12-83 69-83 62 1 68 85-35-34-69-32-40 1-68 30z" fill="#10262a"/><path d="M124 400c8-126 55-178 146-178s139 52 146 178z" fill="#ff765f"/><rect x="22" y="231" width="205" height="121" rx="7" fill="#10262a"/><rect x="36" y="245" width="177" height="94" fill="#a7d4ca"/><path d="M64 275h96M64 299h64" stroke="#ff765f" stroke-width="9" stroke-linecap="round"/><path d="M5 358h239l-26 27H30z" fill="#173337"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><rect x="125" y="32" width="150" height="230" rx="15" fill="#173337"/><rect x="139" y="47" width="122" height="200" rx="9" fill="#a7d4ca"/><circle cx="200" cy="177" r="32" fill="#ff765f"/><circle cx="200" cy="177" r="10" fill="#d8f36b"/><path d="M166 89h68" stroke="#10262a" stroke-width="9" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><rect x="50" y="95" width="275" height="112" rx="10" fill="#10262a"/><g fill="#d8f36b"><rect x="70" y="115" width="24" height="15"/><rect x="101" y="115" width="24" height="15"/><rect x="132" y="115" width="24" height="15"/><rect x="163" y="115" width="24" height="15"/><rect x="194" y="115" width="24" height="15"/><rect x="225" y="115" width="24" height="15"/><rect x="256" y="115" width="24" height="15"/><rect x="128" y="171" width="110" height="15"/></g><rect x="340" y="112" width="30" height="94" rx="14" fill="#ff765f"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><rect x="75" y="38" width="250" height="174" rx="9" fill="#10262a"/><rect x="88" y="51" width="224" height="148" fill="#a7d4ca"/><circle cx="200" cy="124" r="38" fill="#d8f36b"/><path d="m184 124 12 12 24-27" fill="none" stroke="#10262a" stroke-width="7"/><path d="M32 217h336l-35 34H67z" fill="#173337"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><rect x="61" y="35" width="278" height="172" rx="7" fill="#10262a"/><rect x="74" y="48" width="252" height="146" fill="#c5d4e9"/><path d="M105 161c29-40 52-35 75-9 27-58 54-53 112 8" fill="none" stroke="#ff765f" stroke-width="13"/><rect x="180" y="207" width="40" height="46" fill="#173337"/><path d="M128 255h144" stroke="#10262a" stroke-width="12" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><rect x="105" y="37" width="190" height="226" rx="18" fill="#173337"/><rect x="124" y="56" width="152" height="187" rx="10" fill="#d8f36b"/><path d="M217 77h-32l-22 63h27l-9 70 56-82h-29z" fill="#ff765f"/><circle cx="153" cy="223" r="6" fill="#10262a"/><circle cx="177" cy="223" r="6" fill="#10262a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><rect x="80" y="105" width="240" height="120" rx="16" fill="#10262a"/><rect x="116" y="45" width="168" height="105" rx="7" fill="#a7d4ca"/><rect x="133" y="62" width="134" height="70" fill="#fff"/><rect x="132" y="190" width="136" height="73" fill="#fff"/><circle cx="282" cy="140" r="8" fill="#d8f36b"/><path d="M145 218h110" stroke="#ff765f" stroke-width="8" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><path d="M105 202h190l-15 43H120z" fill="#10262a"/><rect x="92" y="132" width="216" height="75" rx="13" fill="#173337"/><circle cx="127" cy="169" r="8" fill="#d8f36b"/><circle cx="153" cy="169" r="8" fill="#ff765f"/><path d="M200 132V75M249 132V54" stroke="#10262a" stroke-width="8" stroke-linecap="round"/><path d="M172 109q28-26 56 0M152 91q48-47 96 0" fill="none" stroke="#ff765f" stroke-width="6"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><rect x="95" y="54" width="210" height="142" rx="20" fill="#10262a"/><circle cx="200" cy="125" r="49" fill="#a7d4ca"/><circle cx="200" cy="125" r="28" fill="#ff765f"/><circle cx="200" cy="125" r="12" fill="#10262a"/><path d="M164 205h72l20 40H144z" fill="#173337"/><path d="M130 255h140" stroke="#10262a" stroke-width="12" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 340"><rect width="300" height="340" fill="#d8f36b"/><circle cx="150" cy="125" r="62" fill="#6a3b2d"/><path d="M65 340c7-106 35-145 85-145s78 39 85 145z" fill="#ff765f"/><path d="M88 115q10-71 62-71 58 1 63 74-35-27-65-27-34 0-60 24z" fill="#10262a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 340"><rect width="300" height="340" fill="#cfc5e5"/><circle cx="150" cy="125" r="62" fill="#9b603e"/><path d="M62 340c8-106 37-145 88-145s80 39 88 145z" fill="#ff765f"/><path d="M87 114q11-68 63-68 55 0 64 70-34-29-65-27-37 0-62 25z" fill="#10262a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 340"><rect width="300" height="340" fill="#f5c6a9"/><circle cx="150" cy="125" r="62" fill="#bc764d"/><path d="M62 340c8-106 37-145 88-145s80 39 88 145z" fill="#173337"/><path d="M88 112q10-67 62-67 55 0 64 70-36-25-66-25-35 0-60 22z" fill="#d8f36b"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 340"><rect width="300" height="340" fill="#a7d4ca"/><circle cx="150" cy="125" r="62" fill="#743d2d"/><path d="M60 340c8-106 38-145 90-145s82 39 90 145z" fill="#10262a"/><path d="M87 115q11-74 63-74 58 1 63 73-25-29-64-29-37 0-62 30z" fill="#ff765f"/></svg>
+<html lang="en">
+<head>{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Launch BrightTech website",
+            "file": "${workspaceFolder}/index.html",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "node-terminal",
+            "request": "launch",
+            "name": "Open BrightTech in browser",
+            "command": "Start-Process '${workspaceFolder}\\index.html'"
+        }
+    ]
+}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Contact BrightTech Solutions for technology support and advice.">
+  <title>Contact | BrightTech Solutions</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html"><span class="logo-mark"><img src="assets/brighttech-logo.svg" alt="BrightTech logo"></span><span>BrightTech <small>Solutions</small></span></a>
+      <nav aria-label="Main navigation"><a href="index.html">Home</a><a href="project.html">Project</a><a href="team.html">Team</a><a href="index.html#services">Services</a><a href="index.html#products">Products</a><a href="contact.html" aria-current="page">Contact</a></nav>
+      <a class="nav-button" href="contact.html">Get support</a>
+    </div>
+  </header>
+  <main>
+    <section class="section contact-section">
+      <div class="container contact-grid">
+        <div><p class="kicker">Start a conversation</p><h1>Let's make something <em>work better.</em></h1><p>Tell us what is slowing you down. We will help you find a brighter way through.</p><div class="contact-links"><a href="mailto:hello@brighttech.co.za">hello@brighttech.co.za</a><a href="tel:+27115550198">+27 11 555 0198</a><a href="https://maps.google.com/?q=Johannesburg+South+Africa" target="_blank" rel="noopener">Johannesburg, South Africa →</a></div></div>
+        <form action="mailto:hello@brighttech.co.za" method="post" enctype="text/plain"><label for="name">Name<input id="name" name="name" type="text" required></label><label for="email">Email<input id="email" name="email" type="email" required></label><label for="subject">Subject<input id="subject" name="subject" type="text" required></label><label for="message">Message<textarea id="message" name="message" rows="6" required></textarea></label><button class="button primary" type="submit">Send message →</button></form>
+      </div>
+    </section>
+  </main>
+  <footer><div class="container footer-grid"><a class="brand" href="index.html"><span class="logo-mark"><img src="assets/brighttech-logo.svg" alt="BrightTech logo"></span><span>BrightTech <small>Solutions</small></span></a><p>Technology made useful.</p><div><a href="index.html#services">Services</a><a href="index.html#products">Products</a><a href="contact.html">Contact</a></div></div><div class="container footer-bottom">© 2026 BrightTech Solutions</div></footer>
+</body>
+</html>
+
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="refresh" content="0; url=index.html">
+	<title>BrightTech Solutions</title>
+</head>
+<body>
+	<p>Opening the BrightTech Solutions website. <a href="index.html">Continue to the website</a>.</p>
+</body>
+</html>
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="BrightTech Solutions hardware, software, networking and IT support services.">
+  <title>BrightTech Solutions | Technology made useful</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header"><div class="container nav-wrap"><a class="brand" href="#home"><span class="logo-mark"><img src="assets/brighttech-logo.svg" alt="BrightTech logo"></span><span>BrightTech <small>Solutions</small></span></a><nav aria-label="Main navigation"><a href="#home">Home</a><a href="project.html">Project</a><a href="#about">About</a><a href="#services">Services</a><a href="team.html">Team</a><a href="#products">Products</a><a href="#contact">Contact</a></nav><a class="nav-button" href="contact.html">Get support</a></div></header>
+<main>
+<section class="hero" id="home"><div class="container hero-grid"><div><p class="kicker">Technology for ambitious teams</p><h1>Work smarter.<br><em>Move brighter.</em></h1><p class="hero-copy">BrightTech Solutions helps people and businesses find dependable technology without the confusion.</p><div class="actions"><a class="button primary" href="#services">Explore services</a><a class="button secondary" href="#contact">Talk to an expert</a></div><div class="stats"><span><strong>15+</strong> years experience</span><span><strong>24/7</strong> support mindset</span></div></div><div class="hero-image"><picture><source srcset="assets/hero-office.jpg" type="image/jpeg"><img src="assets/hero-team.svg" alt="People collaborating in a modern technology workspace"></picture></div></div></section>
+<section class="pulse-strip" aria-label="BrightTech highlights"><div class="container pulse-inner"><div class="pulse-item"><strong>Technology, in tune.</strong><span>Bright ideas for real work</span></div><div class="pulse-item"><strong>98%</strong><span>Client satisfaction</span></div><div class="pulse-item"><strong>&lt; 30 min</strong><span>Average response</span></div><div class="pulse-item"><strong>200+</strong><span>Teams supported</span></div></div></section>
+<section class="gallery" aria-label="Technology at work"><div class="container gallery-grid"><figure><picture><source srcset="assets/gallery-laptop.jpg" type="image/jpeg"><img src="assets/people-laptop.svg" alt="Professional working on a laptop"></picture><figcaption>Tools that travel with you</figcaption></figure><figure><picture><source srcset="assets/gallery-network.jpg" type="image/jpeg"><img src="assets/people-network.svg" alt="Technology network equipment"></picture><figcaption>Connections that stay strong</figcaption></figure><figure><picture><source srcset="assets/gallery-team.jpg" type="image/jpeg"><img src="assets/people-support.svg" alt="Team collaborating around technology"></picture><figcaption>Support that feels human</figcaption></figure></div></section>
+<section class="section dark" id="about"><div class="container two-column"><div><p class="kicker light">About BrightTech</p><h2>Technology should make life <em>easier.</em></h2></div><div><p class="large">Founded in 2009, BrightTech Solutions started with one practical goal: help growing businesses use technology with confidence.</p><p>We now support teams across Southern Africa with honest advice, quality products and responsive technical care. We listen first, then build solutions around the way people really work.</p><div class="mission-grid"><div><b>Mission</b><p>Make dependable technology accessible and useful for every growing business.</p></div><div><b>Vision</b><p>A connected future where technology unlocks human potential.</p></div></div></div></div></section>
+<section class="section" id="services"><div class="container"><div class="section-head"><div><p class="kicker">What we do</p><h2>Everything your<br><em>work needs.</em></h2></div><p>Practical solutions, delivered by people who care about the outcome.</p></div><div class="service-grid"><article><span>01</span><h3>IT Support</h3><p>Friendly helpdesk support, troubleshooting and maintenance when you need it.</p><a href="#contact">Learn more →</a></article><article><span>02</span><h3>Hardware</h3><p>Reliable computers, printers, peripherals and device setup for your team.</p><a href="#products">View products →</a></article><article><span>03</span><h3>Networks &amp; Cloud</h3><p>Secure Wi-Fi, business networks, backups and cloud systems that stay connected.</p><a href="#contact">Learn more →</a></article><article><span>04</span><h3>Software</h3><p>Licensing, productivity tools and tailored software advice that saves time.</p><a href="#contact">Learn more →</a></article></div></div></section>
+<section class="section team-section" id="team"><div class="container"><div class="section-head"><div><p class="kicker">The people behind the pixels</p><h2>Meet the <em>team.</em></h2></div><p>Curious minds and practical thinkers, ready to help.</p></div><div class="team-grid"><article><img src="images/Henry Ansah.jpeg" alt="Henry Ansah"><h3>Henry Ansah</h3><b>Founder &amp; CEO</b><p>Turns technology strategy into a clear plan for growth.</p></article><article><img src="images/Gabriel Asare.jpeg" alt="Gabriel Asare"><h3>Gabriel Asare</h3><b>Solutions Engineer</b><p>Matches the right tools to your team's real needs.</p></article></div></div></section>
+<section class="section products" id="products"><div class="container"><div class="section-head"><div><p class="kicker">Shop BrightTech</p><h2>Good gear for<br><em>great work.</em></h2></div><p>Quality devices selected for everyday business.</p></div><div class="product-grid"><article><picture><source srcset="assets/laptop-real.jpg" type="image/jpeg"><img src="assets/product-laptop.svg" alt="BrightBook Pro laptop"></picture><h3>BrightBook Pro 14</h3><p>Lightweight business laptop.</p><strong>$999</strong></article><article><picture><source srcset="assets/monitor-real.jpg" type="image/jpeg"><img src="assets/product-monitor.svg" alt="BrightView monitor"></picture><h3>BrightView Ultra HD</h3><p>27-inch clarity for big ideas.</p><strong>$349</strong></article><article><picture><source srcset="assets/router-real.jpg" type="image/jpeg"><img src="assets/product-router.svg" alt="BrightMesh Wi-Fi router"></picture><h3>BrightMesh Wi-Fi 6</h3><p>Fast whole-office coverage.</p><strong>$119</strong></article><article><picture><source srcset="assets/keyboard-real.jpg" type="image/jpeg"><img src="assets/product-keyboard.svg" alt="BrightKeys keyboard"></picture><h3>BrightKeys Wireless</h3><p>Quiet control for every day.</p><strong>$49</strong></article><article><picture><source srcset="assets/drive-real.jpg" type="image/jpeg"><img src="assets/product-drive.svg" alt="BrightVault SSD drive"></picture><h3>BrightVault SSD</h3><p>Secure portable storage.</p><strong>$79</strong></article><article><picture><source srcset="assets/webcam-real.jpg" type="image/jpeg"><img src="assets/product-webcam.svg" alt="BrightCam HD webcam"></picture><h3>BrightCam HD</h3><p>Clear video for modern meetings.</p><strong>$69</strong></article><article><picture><source srcset="assets/printer-real.jpg" type="image/jpeg"><img src="assets/product-printer.svg" alt="BrightPrint office printer"></picture><h3>BrightPrint Office</h3><p>Dependable printing for busy teams.</p><strong>$189</strong></article><article><picture><source srcset="assets/power-real.jpg" type="image/jpeg"><img src="assets/product-power.svg" alt="BrightShield backup power unit"></picture><h3>BrightShield Backup</h3><p>Keep essential equipment powered.</p><strong>$129</strong></article></div></div></section>
+<section class="section contact-section" id="contact"><div class="container contact-grid"><div><p class="kicker">Start a conversation</p><h2>Let's make something <em>work better.</em></h2><p>Tell us what is slowing you down. We will help you find a brighter way through.</p><div class="contact-links"><a href="mailto:hello@brighttech.co.za">hello@brighttech.co.za</a><a href="tel:+27115550198">+27 11 555 0198</a><a href="https://maps.google.com/?q=Johannesburg+South+Africa" target="_blank" rel="noopener">Johannesburg, South Africa →</a></div></div><form action="#contact" method="post"><label for="name">Name<input id="name" name="name" type="text" required></label><label for="email">Email<input id="email" name="email" type="email" required></label><label for="phone">Phone number<input id="phone" name="phone" type="tel"></label><label for="subject">Subject<input id="subject" name="subject" type="text"></label><label for="message">Message<textarea id="message" name="message" rows="4" required></textarea></label><button class="button primary" type="submit">Send message →</button></form></div></section>
+</main><input id="assistant-toggle" type="checkbox"><label class="assistant-launch" for="assistant-toggle" aria-label="Open Maya, BrightTech virtual guide"><span>✦</span></label><aside class="assistant-popup" aria-label="Maya, BrightTech virtual guide"><div class="assistant-head"><span class="assistant-status"></span><strong>Maya · BrightTech guide</strong><small>Virtual assistant</small></div><div class="assistant-messages" id="assistant-messages" aria-live="polite"><div class="assistant-message bot">Hi, I’m Maya, BrightBot’s friendly guide. I can help you find the right service or product. What are you working on today?</div></div><form class="assistant-form" id="assistant-form"><input id="assistant-input" type="text" placeholder="Tell Maya what you need..." autocomplete="off" required><button type="submit" aria-label="Send message">→</button></form><a class="assistant-contact" href="mailto:hello@brighttech.co.za?subject=BrightBot%20question">Speak with our human team →</a></aside><footer><div class="container footer-grid"><a class="brand" href="#home"><span class="logo-mark"><img src="assets/brighttech-logo.svg" alt="BrightTech logo"></span><span>BrightTech <small>Solutions</small></span></a><p>Technology made useful.</p><div><a href="#services">Services</a><a href="#products">Products</a><a href="#contact">Contact</a></div></div><div class="container footer-bottom">© 2026 BrightTech Solutions</div></footer>
+<script>
+  const assistantForm = document.getElementById('assistant-form');
+  const assistantInput = document.getElementById('assistant-input');
+  const assistantMessages = document.getElementById('assistant-messages');
+  assistantForm.addEventListener('submit', (event) => {
+    event.preventDefault();
+    const question = assistantInput.value.trim();
+    if (!question) return;
+    addAssistantMessage(question, 'user');
+    assistantInput.value = '';
+    const words = question.toLowerCase();
+    let answer = 'I’m glad you reached out. I can help with services, products, prices, support, or contact details. What matters most to you right now?';
+    if (words.includes('hello') || words.includes('hi') || words.includes('hey')) answer = 'Hello! It’s lovely to meet you. What kind of technology would make your work easier?';
+    else if (words.includes('service') || words.includes('help')) answer = 'Absolutely, I can help with that. BrightTech provides IT support, hardware, software, networking, and cloud solutions for growing businesses.';
+    else if (words.includes('price') || words.includes('cost') || words.includes('laptop')) answer = 'Our BrightBook Pro 14 laptop is $999. It’s a great fit for focused everyday work. You can compare the full range in the Products section.';
+    else if (words.includes('product') || words.includes('monitor') || words.includes('router') || words.includes('printer')) answer = 'We offer laptops, monitors, routers, keyboards, SSDs, webcams, printers, and backup power units. Tell me what your team does and I can point you in the right direction.';
+    else if (words.includes('support') || words.includes('quick') || words.includes('fast')) answer = 'I understand that interruptions are frustrating. Our average support response time is under 30 minutes during support hours.';
+    else if (words.includes('contact') || words.includes('email') || words.includes('phone')) answer = 'Of course. Email hello@brighttech.co.za or call +27 11 555 0198, and a member of our human team will be happy to help.';
+    addAssistantMessage('Maya is thinking…', 'bot typing');
+    window.setTimeout(() => {
+      const typingMessage = assistantMessages.querySelector('.typing');
+      if (typingMessage) typingMessage.remove();
+      addAssistantMessage(answer, 'bot');
+    }, 650);
+  });
+  function addAssistantMessage(message, type) {
+    const item = document.createElement('div');
+    item.className = `assistant-message ${type}`;
+    item.textContent = message;
+    assistantMessages.appendChild(item);
+    assistantMessages.scrollTop = assistantMessages.scrollHeight;
+  }
+</script>
+</body></html>
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="BrightTech Solutions project and service overview.">
+  <title>Our Project | BrightTech Solutions</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html"><span class="logo-mark"><img src="assets/brighttech-logo.svg" alt="BrightTech logo"></span><span>BrightTech <small>Solutions</small></span></a>
+      <nav aria-label="Main navigation"><a href="index.html">Home</a><a href="project.html" aria-current="page">Project</a><a href="team.html">Team</a><a href="index.html#services">Services</a><a href="index.html#products">Products</a><a href="contact.html">Contact</a></nav>
+      <a class="nav-button" href="contact.html">Get support</a>
+    </div>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <p class="kicker">The BrightTech project</p>
+          <h1>Technology that <em>works.</em></h1>
+          <p class="hero-copy">A practical digital home for a technology partner helping growing teams work with more confidence.</p>
+          <div class="actions"><a class="button primary" href="index.html#services">Explore services</a><a class="button secondary" href="contact.html">Start a conversation</a></div>
+        </div>
+        <div class="hero-image"><img src="assets/hero-team.svg" alt="People collaborating in a modern technology workspace"></div>
+      </div>
+    </section>
+    <section class="section dark">
+      <div class="container two-column">
+        <div><p class="kicker light">Project focus</p><h2>Clear tools for <em>real work.</em></h2></div>
+        <div><p class="large">This project brings BrightTech's services, products, people, and support experience into one accessible website.</p><p>The design uses strong typography, warm coral accents, and responsive layouts to make information easy to scan on phones and larger screens.</p></div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container"><div class="section-head"><div><p class="kicker">What is included</p><h2>Built around <em>people.</em></h2></div><p>Every part of the experience points visitors toward useful information or a clear next step.</p></div><div class="service-grid"><article><span>01</span><h3>Services</h3><p>IT support, hardware, networks, cloud systems, and software guidance.</p></article><article><span>02</span><h3>Products</h3><p>A focused catalogue of dependable devices for everyday business.</p></article><article><span>03</span><h3>Team</h3><p>A human view of the people who provide technical care and advice.</p></article><article><span>04</span><h3>Support</h3><p>Simple contact paths for questions, enquiries, and technical help.</p></article></div></div>
+    </section>
+  </main>
+  <footer><div class="container footer-grid"><a class="brand" href="index.html"><span class="logo-mark"><img src="assets/brighttech-logo.svg" alt="BrightTech logo"></span><span>BrightTech <small>Solutions</small></span></a><p>Technology made useful.</p><div><a href="index.html#services">Services</a><a href="index.html#products">Products</a><a href="contact.html">Contact</a></div></div><div class="container footer-bottom">© 2026 BrightTech Solutions</div></footer>
+</body>
+</html>
+
+# BrightTech Solutions
+
+BrightTech Solutions is a responsive technology services website for a fictional IT company. It presents the company's services, team, products, support details, and contact options.
+
+## Files
+
+- `index.html` - Main single-page website.
+- `project.html` - Project overview and service details.
+- `contact.html` - Contact information and enquiry form.
+- `style.css` - Shared visual styles and responsive layout rules.
+- `assets/` - Images, illustrations, and branding assets.
+
+## Run locally
+
+No build step is required. Open `index.html` in a browser, or serve the folder with any local static web server.
+
+For example, with Python installed:
+
+```text
+python -m http.server 8000
+```
+
+Then visit `http://localhost:8000`.
+
+## Notes
+
+The forms are front-end demonstrations. Connect them to a form-processing service or backend before using the site in production. Replace the sample contact details and product information with real business data before publishing.
+
+:root{--ink:#10262a;--dark:#173337;--paper:#f5f7f2;--white:#fff;--muted:#657578;--line:#dbe4de;--lime:#d8f36b;--coral:#ff765f;--display:'Trebuchet MS',sans-serif;--serif:Georgia,serif}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 var(--display)}a{color:inherit;text-decoration:none}.container{width:min(1160px,calc(100% - 48px));margin:auto}.site-header{position:sticky;top:0;z-index:5;background:rgba(245,247,242,.96);border-bottom:1px solid var(--line)}.nav-wrap{display:flex;align-items:center;gap:32px;min-height:76px}.brand{display:flex;align-items:center;gap:10px;font-weight:bold;line-height:1.05}.brand small{display:block;color:var(--muted);font-size:9px;letter-spacing:2px;text-transform:uppercase}.logo-mark{display:grid;place-items:center;width:38px;height:38px;background:var(--coral);color:var(--white);font-weight:bold;border-radius:50%}nav{display:flex;gap:22px;margin-left:auto}nav a{font-size:13px;color:var(--muted);font-weight:bold}nav a:hover{color:var(--coral)}.nav-button,.button{display:inline-block;padding:12px 18px;background:var(--ink);color:var(--white);font-weight:bold;border:0;cursor:pointer}.nav-button:hover,.primary:hover{background:var(--coral)}.hero{padding:80px 0 55px;background:radial-gradient(circle at 83% 25%,rgba(216,243,107,.65),transparent 25%),var(--paper)}.hero-grid{display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:50px}.kicker{color:var(--coral);font-size:11px;font-weight:bold;letter-spacing:2px;text-transform:uppercase}.light{color:var(--lime)}h1,h2{font:700 clamp(3rem,7vw,6.5rem)/.94 var(--display);letter-spacing:-4px;margin:18px 0 26px}h2{font-size:clamp(2.8rem,5vw,5rem)}h1 em,h2 em{font-family:var(--serif);font-weight:normal;color:var(--coral);letter-spacing:-3px}.hero-copy{max-width:440px;color:var(--muted);font-size:18px}.actions{display:flex;gap:14px;margin:30px 0}.secondary{background:transparent;color:var(--ink);border:1px solid var(--ink)}.stats{display:flex;gap:30px;color:var(--muted);font-size:12px}.stats strong{display:block;color:var(--ink);font-size:27px}.hero-image img{width:100%;display:block}.gallery{padding:0 0 100px}.gallery-grid{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:14px}.gallery figure{height:270px;margin:0;position:relative;overflow:hidden;background:var(--dark)}.gallery figure:first-child{height:320px}.gallery img{width:100%;height:100%;object-fit:cover;transition:transform .4s}.gallery figure:hover img{transform:scale(1.06)}.gallery figcaption{position:absolute;bottom:0;left:0;right:0;padding:18px;color:#fff;background:linear-gradient(transparent,rgba(16,38,42,.9));font-weight:bold}.section{padding:105px 0}.dark{background:var(--dark);color:#fff}.two-column,.contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:70px}.large{font-size:22px;line-height:1.35}.dark p:not(.kicker){color:#bdcaca}.mission-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;border-top:1px solid #476063;padding-top:22px;margin-top:35px}.mission-grid b{color:var(--lime);text-transform:uppercase;font-size:11px;letter-spacing:1px}.mission-grid p{font-size:13px}.section-head{display:flex;justify-content:space-between;align-items:end;margin-bottom:45px}.section-head>p{max-width:250px;color:var(--muted)}.service-grid{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-left:1px solid var(--line)}.service-grid article{padding:25px;min-height:280px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);transition:.25s}.service-grid article:first-child{background:var(--lime)}.service-grid article:hover{transform:translateY(-7px);box-shadow:0 15px 25px #10262a1c}.service-grid span{color:var(--coral);font-size:12px}.service-grid h3{font-size:22px;margin-top:45px}.service-grid p,.team-grid p,.product-grid p{color:var(--muted);font-size:13px}.service-grid a{font-size:12px;font-weight:bold}.team-section{background:#e7eee5}.team-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}.team-grid article{min-width:0}.team-grid img{display:block;width:100%;aspect-ratio:1/1.05;object-fit:cover;background:var(--lime);margin-bottom:16px}.team-grid h3{margin:0;font-size:18px}.team-grid b{font-size:11px;color:var(--coral);text-transform:uppercase;letter-spacing:1px}.products{background:#fff}.product-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px}.product-grid article{min-width:0}.product-grid img{display:block;width:100%;height:190px;object-fit:contain;background:#edf2eb;margin-bottom:16px}.product-grid h3{font-size:16px;margin:0 0 4px}.product-grid strong{font-size:18px}.contact-section{background:var(--lime)}.contact-links{display:flex;flex-direction:column;gap:7px;font-size:13px;font-weight:bold;margin-top:30px}.contact-links a:hover{color:var(--coral)}form{background:#fff;padding:30px}label{display:block;color:var(--muted);font-size:11px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;margin-bottom:17px}input,textarea{display:block;width:100%;padding:10px 0;border:0;border-bottom:1px solid var(--line);background:transparent;font:15px var(--display);outline:0}input:focus,textarea:focus{border-color:var(--coral)}footer{background:var(--dark);color:#fff;padding:45px 0 20px}.footer-grid{display:grid;grid-template-columns:1fr 1fr 1fr;align-items:start}.footer-grid p{color:#bdcaca}.footer-grid>div:last-child{display:flex;justify-content:flex-end;gap:18px;font-size:12px}.footer-bottom{border-top:1px solid #466064;color:#8da0a1;font-size:11px;margin-top:35px;padding-top:15px}@media(max-width:850px){nav{gap:12px}.nav-button{display:none}.hero-grid,.two-column,.contact-grid{grid-template-columns:1fr}.hero-image{max-width:650px;margin:auto}.service-grid{grid-template-columns:repeat(2,1fr)}.team-grid{grid-template-columns:repeat(2,1fr)}.product-grid{grid-template-columns:repeat(3,1fr)}}@media(max-width:560px){.container{width:calc(100% - 32px)}.site-header{position:relative}nav{display:none}.hero{padding-top:55px}.actions{flex-wrap:wrap}.gallery-grid{grid-template-columns:1fr 1fr}.gallery figure:first-child{grid-column:span 2;height:230px}.gallery figure{height:180px}.section{padding:72px 0}.section-head{display:block}.section-head>p{margin-top:15px}.service-grid{grid-template-columns:1fr}.team-grid{gap:25px 12px}.product-grid{grid-template-columns:1fr 1fr}.product-grid img{height:150px}.mission-grid{grid-template-columns:1fr}.footer-grid{grid-template-columns:1fr;gap:15px}.footer-grid>div:last-child{justify-content:flex-start}}
+	:root { --ink: #f3f7f1; --dark: #09191c; --paper: #0d2226; --white: #132d31; --muted: #a9b9b7; --line: #294347; --lime: #d8f36b; --coral: #ff765f; }
+	body { background: var(--paper); color: var(--ink); }
+	.site-header { background: rgba(13,34,38,.96); }
+	.brand { color: var(--ink); }
+	.brand small, nav a, .hero-copy, .section-head > p, .service-grid p, .team-grid p, .product-grid p, .contact-section p, .stats { color: var(--muted); }
+	.nav-button, .primary, footer { background: var(--dark); }
+	.secondary { color: var(--ink); border-color: var(--ink); }
+	.hero { background: radial-gradient(circle at 83% 25%, rgba(216,243,107,.18), transparent 25%), var(--paper); }
+	.dark { background: #071417; }
+	.team-section { background: #112b2f; }
+	.products { background: #10272b; }
+	.product-grid img { background: #17383d; }
+	.contact-section { background: #173337; }
+	form { background: #f3f7f1; color: #10262a; }
+	.mission-grid { border-color: #294347; }
+	.logo-mark { width: 42px; height: 42px; border-radius: 12px; background: transparent; }
+	.logo-mark img { width: 42px; height: 42px; display: block; }
+	.site-header nav a:hover, .footer-grid a:hover { color: var(--lime); }
+	.pulse-strip { background: #ff765f; color: #10262a; padding: 18px 0; overflow: hidden; }
+	.pulse-inner { display: grid; grid-template-columns: 1.2fr 1fr 1fr 1fr; gap: 1px; }
+	.pulse-item { padding: 4px 24px; border-right: 1px solid rgba(16,38,42,.22); }
+	.pulse-item:first-child { padding-left: 0; }
+	.pulse-item:last-child { border-right: 0; }
+	.pulse-item strong { display: block; font: 700 21px/1 var(--display); letter-spacing: -.7px; }
+	.pulse-item span { display: block; margin-top: 5px; font-size: 10px; font-weight: bold; letter-spacing: 1.4px; text-transform: uppercase; }
+	.pulse-item:nth-child(2) { color: #10262a; }
+	.pulse-item:nth-child(3) { color: #f3f7f1; }
+	.pulse-item:nth-child(4) { color: #10262a; }
+	@media(max-width: 620px) { .pulse-inner { grid-template-columns: 1fr 1fr; gap: 14px 0; } .pulse-item { padding: 4px 14px; } .pulse-item:first-child { padding-left: 0; } .pulse-item:nth-child(2) { border-right: 0; } }
+	#assistant-toggle { position: absolute; opacity: 0; pointer-events: none; }
+	.assistant-launch { position: fixed; right: 24px; bottom: 24px; z-index: 30; width: 58px; height: 58px; display: grid; place-items: center; border-radius: 50%; background: var(--coral); color: var(--dark); cursor: pointer; box-shadow: 0 10px 28px rgba(0,0,0,.35); font-size: 26px; font-weight: bold; }
+	.assistant-launch:hover { background: var(--lime); transform: translateY(-3px); }
+	.assistant-popup { display: none; position: fixed; right: 24px; bottom: 94px; z-index: 29; width: min(365px, calc(100% - 48px)); padding: 24px; background: #f3f7f1; color: #10262a; box-shadow: 0 18px 50px rgba(0,0,0,.4); border: 1px solid var(--line); }
+	#assistant-toggle:checked ~ .assistant-popup { display: block; }
+	#assistant-toggle:checked ~ .assistant-launch { background: var(--lime); }
+	#assistant-toggle:checked ~ .assistant-launch span { display: none; }
+	#assistant-toggle:checked ~ .assistant-launch::after { content: '×'; font-size: 30px; }
+	.assistant-head { display: flex; align-items: center; gap: 10px; padding-bottom: 16px; border-bottom: 1px solid #dbe4de; }
+	.assistant-head strong { font: 700 17px var(--display); }
+	.assistant-status { width: 10px; height: 10px; border-radius: 50%; background: #71c96b; box-shadow: 0 0 0 4px #dff2dc; }
+	.assistant-head small { color: #657578; margin-left: auto; font-size: 10px; }
+	.assistant-greeting { margin: 18px 0 12px; padding: 13px; background: #e9f1e6; font-size: 13px; }
+	.assistant-popup details { border-top: 1px solid #dbe4de; padding: 13px 0; }
+	.assistant-popup summary { cursor: pointer; font-size: 12px; font-weight: bold; list-style: none; }
+	.assistant-popup summary::after { content: '+'; float: right; color: var(--coral); font-size: 18px; }
+	.assistant-popup details[open] summary::after { content: '−'; }
+	.assistant-popup details p { color: #657578; font-size: 12px; margin: 10px 18px 0 0; }
+	.assistant-contact { display: inline-block; margin-top: 12px; color: #e85e4d; font-size: 12px; font-weight: bold; }
+	.assistant-messages { display: flex; flex-direction: column; gap: 9px; max-height: 210px; overflow-y: auto; margin: 14px 0; }
+	.assistant-message { max-width: 86%; padding: 9px 11px; border-radius: 10px; font-size: 12px; line-height: 1.4; }
+	.assistant-message.bot { align-self: flex-start; background: #e9f1e6; }
+	.assistant-message.typing { opacity: .62; font-style: italic; }
+	.assistant-message.user { align-self: flex-end; background: #10262a; color: #f3f7f1; }
+	.assistant-form { display: flex; gap: 8px; padding: 0; background: transparent; }
+	.assistant-form input { min-width: 0; padding: 10px 8px; border: 1px solid #cbd8ce; background: #fff; font-size: 12px; }
+	.assistant-form button { border: 0; padding: 0 13px; background: var(--coral); color: #10262a; font-weight: bold; cursor: pointer; }
+	.assistant-form button:hover { background: var(--lime); }
+	@media(max-width: 620px) { .assistant-launch { right: 14px; bottom: 14px; } .assistant-popup { right: 14px; bottom: 86px; width: calc(100% - 28px); } }
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Meet the BrightTech Solutions team.">
+  <title>Our Team | BrightTech Solutions</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html"><span class="logo-mark"><img src="assets/brighttech-logo.svg" alt="BrightTech logo"></span><span>BrightTech <small>Solutions</small></span></a>
+      <nav aria-label="Main navigation"><a href="index.html">Home</a><a href="project.html">Project</a><a href="team.html" aria-current="page">Team</a><a href="index.html#services">Services</a><a href="index.html#products">Products</a><a href="contact.html">Contact</a></nav>
+      <a class="nav-button" href="contact.html">Get support</a>
+    </div>
+  </header>
+  <main>
+    <section class="section team-section">
+      <div class="container">
+        <div class="section-head"><div><p class="kicker">The people behind the pixels</p><h1>Meet the <em>team.</em></h1></div><p>Curious minds and practical thinkers, ready to help.</p></div>
+        <div class="team-grid">
+          <article><img src="images/Henry Ansah.jpeg" alt="Henry Ansah"><h3>Henry Ansah</h3><b>Founder &amp; CEO</b><p>Turns technology strategy into a clear plan for growth.</p></article>
+          <article><img src="images/Gabriel Asare.jpeg" alt="Gabriel Asare"><h3>Gabriel Asare</h3><b>Solutions Engineer</b><p>Matches the right tools to your team's real needs.</p></article>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer><div class="container footer-grid"><a class="brand" href="index.html"><span class="logo-mark"><img src="assets/brighttech-logo.svg" alt="BrightTech logo"></span><span>BrightTech <small>Solutions</small></span></a><p>Technology made useful.</p><div><a href="index.html#services">Services</a><a href="index.html#products">Products</a><a href="contact.html">Contact</a></div></div><div class="container footer-bottom">© 2026 BrightTech Solutions</div></footer>
+</body>
+</html>
